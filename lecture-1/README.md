@@ -203,3 +203,6 @@ Python says, "It's awesome!"
 Keep learning.
 Python says, "It's awesome!"
 Keep learning.
+
+Video Link for Video:
+https://www.youtube.com/live/7VbfzhzThqQ?si=LvlN-NHnbs8ju2TS
